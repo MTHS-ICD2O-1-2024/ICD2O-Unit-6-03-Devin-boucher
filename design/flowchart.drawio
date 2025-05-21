@@ -80,12 +80,6 @@
                 <mxCell id="24" value="iconURL = &#39;https://openweathermap.org/img/wn/&#39; + icon + &#39;@2x.png" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
                     <mxGeometry x="440" y="560" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="26" value="&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;&amp;nbsp;Display &#39;Weather: &#39; + weather&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="50" y="400" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="28" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;Display&amp;nbsp;Temperature: &#39; + temp + &#39;°C&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="50" y="500" width="120" height="60" as="geometry"/>
-                </mxCell>
                 <mxCell id="36" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;" edge="1" parent="1" source="31" target="33">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
